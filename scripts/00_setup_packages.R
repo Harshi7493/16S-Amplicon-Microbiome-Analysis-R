@@ -9,6 +9,8 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) {
 
 BiocManager::install(c("dada2", "ShortRead", "Biostrings","phyloseq"),
                      update = FALSE, ask = FALSE)
+DECIPHER
+install.packages(c("phangorn", "picante"))
 
 # Check they load
 library(dada2);      packageVersion("dada2")
