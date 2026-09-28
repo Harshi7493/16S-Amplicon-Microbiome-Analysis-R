@@ -153,7 +153,7 @@ Tested on Windows 11 with R 4.4.1 (`multithread = FALSE`); on macOS/Linux, DADA2
 
 ## Author
 
-**[Your Name]**: [short description, e.g. role / institution]
-GitHub: [@Harshi7493](https://github.com/Harshi7493) · [www.linkedin.com/in/harshani-hathurusinghe-0b417034 / email, optional]
+**Harshani Hathurusinghe**: Soil microbiology, Microbiome bioinformatics | Molecular biology
+GitHub: [@Harshi7493](https://github.com/Harshi7493) · [LinkedIn](https://www.linkedin.com/in/harshani-hathurusinghe-0b417034)
 
 *Analysis developed as part of a microbiome bioinformatics portfolio, following the QIIME 2 Moving Pictures tutorial as the reference workflow.*
