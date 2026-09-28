@@ -1,0 +1,35 @@
+"sample_id","body_site","subject","reads","observed_asvs"
+"L3S360","right palm","subject-1",824,50
+"L3S242","right palm","subject-1",897,20
+"L3S341","right palm","subject-1",915,44
+"L3S313","right palm","subject-1",1103,46
+"L3S294","right palm","subject-1",1125,37
+"L3S378","right palm","subject-2",1248,30
+"L2S309","left palm","subject-2",1359,55
+"L5S240","tongue","subject-2",1792,23
+"L5S155","tongue","subject-1",1799,21
+"L5S104","tongue","subject-1",1911,24
+"L5S174","tongue","subject-1",1953,28
+"L5S203","tongue","subject-1",2112,29
+"L2S357","left palm","subject-2",2300,49
+"L5S222","tongue","subject-1",2512,26
+"L2S222","left palm","subject-1",2945,131
+"L2S204","left palm","subject-1",2976,82
+"L2S155","left palm","subject-1",3766,102
+"L2S382","left palm","subject-2",4082,123
+"L2S175","left palm","subject-1",4374,102
+"L2S240","left palm","subject-2",5052,44
+"L6S68","tongue","subject-2",5980,43
+"L1S257","gut","subject-2",6388,81
+"L1S281","gut","subject-2",6614,72
+"L6S20","tongue","subject-2",6852,46
+"L6S93","tongue","subject-2",7029,52
+"L1S8","gut","subject-1",7032,44
+"L1S140","gut","subject-2",7162,65
+"L1S105","gut","subject-1",7780,63
+"L1S76","gut","subject-1",7866,61
+"L4S112","right palm","subject-2",8073,152
+"L1S208","gut","subject-2",8146,84
+"L1S57","gut","subject-1",8701,70
+"L4S63","right palm","subject-2",9057,209
+"L4S137","right palm","subject-2",9770,140

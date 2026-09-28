@@ -7,7 +7,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) {
   install.packages("BiocManager")
 }
 
-BiocManager::install(c("dada2", "ShortRead", "Biostrings"),
+BiocManager::install(c("dada2", "ShortRead", "Biostrings","phyloseq"),
                      update = FALSE, ask = FALSE)
 
 # Check they load
