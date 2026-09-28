@@ -1,0 +1,5 @@
+"metric","F","p"
+"Jaccard",15.31,0.001
+"Bray-Curtis",5.21,0.007
+"Unweighted UniFrac",17.01,0.001
+"Weighted UniFrac",3.81,0.01

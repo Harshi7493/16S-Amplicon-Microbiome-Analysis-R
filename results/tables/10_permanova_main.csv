@@ -1,0 +1,9 @@
+"metric","term","R2","F","p"
+"Jaccard","body_site",0.284,3.66,0.001
+"Jaccard","subject",0.045,1.72,0.034
+"Bray-Curtis","body_site",0.471,8.74,0.001
+"Bray-Curtis","subject",0.064,3.55,0.01
+"Unweighted UniFrac","body_site",0.497,9.17,0.001
+"Unweighted UniFrac","subject",0.035,1.94,0.06
+"Weighted UniFrac","body_site",0.674,18.78,0.001
+"Weighted UniFrac","subject",0.019,1.57,0.145

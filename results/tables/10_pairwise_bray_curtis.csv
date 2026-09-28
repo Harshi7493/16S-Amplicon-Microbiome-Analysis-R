@@ -1,0 +1,7 @@
+"metric","group1","group2","R2","F","p","p_adj"
+"Bray-Curtis","gut","left palm",0.397,9.21,0.001,0.002
+"Bray-Curtis","gut","right palm",0.357,6.65,0.004,0.0048
+"Bray-Curtis","gut","tongue",0.583,20.93,0.001,0.002
+"Bray-Curtis","left palm","right palm",0.043,0.54,0.986,0.986
+"Bray-Curtis","left palm","tongue",0.326,7.26,0.003,0.0045
+"Bray-Curtis","right palm","tongue",0.383,8.07,0.001,0.002

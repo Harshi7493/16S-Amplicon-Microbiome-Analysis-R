@@ -1,0 +1,7 @@
+"metric","group1","group2","R2","F","p","p_adj"
+"Unweighted UniFrac","gut","left palm",0.432,10.66,0.001,0.0012
+"Unweighted UniFrac","gut","right palm",0.351,6.5,0.001,0.0012
+"Unweighted UniFrac","gut","tongue",0.627,25.23,0.001,0.0012
+"Unweighted UniFrac","left palm","right palm",0.049,0.62,0.967,0.967
+"Unweighted UniFrac","left palm","tongue",0.397,9.86,0.001,0.0012
+"Unweighted UniFrac","right palm","tongue",0.369,7.59,0.001,0.0012
