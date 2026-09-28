@@ -9,3 +9,7 @@ data/raw/
 *.qza
 *.qzv
 *.RData
+
+# Reference databases
+data/reference/
+*.fa.gz
