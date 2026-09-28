@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Large data and QIIME 2 artifacts
+data/raw/
+*.fastq.gz
+*.qza
+*.qzv
+*.RData
