@@ -12,7 +12,7 @@ BiocManager::install(c("dada2", "ShortRead", "Biostrings", "phyloseq",
                      update = FALSE, ask = FALSE)
 
 # ---- CRAN packages ----
-install.packages(c("phangorn", "picante", "vegan", "ggplot2", "RColorBrewer"))
+install.packages(c("phangorn", "picante", "vegan", "ggplot2", "RColorBrewer","patchwork"))
 
 # ---- Check they load ----
 pkgs <- c("dada2", "ShortRead", "Biostrings", "phyloseq", "DECIPHER",
